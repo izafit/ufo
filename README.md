@@ -7,3 +7,5 @@ For å visualisere innsiktene brukte jeg flere Power BI-verktøy, inkludert Deco
 En interessant funn var at det var flest UFO-observasjoner på lørdager, noe som kan være et spennende mønster for videre utforskning. En annen trend som ble oppdaget var en dramatisk nedgang i antallet observasjoner fra og med 2014.
 
 Gjennom dette prosjektet fikk jeg verdifull erfaring med dataforberedelse, analyse og visualisering i Power BI, samt innsikt i globale trender rundt UFO-observasjoner.
+
+https://www.novypro.com/project/ufo-sightings-1
